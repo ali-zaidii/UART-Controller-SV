@@ -60,15 +60,6 @@ Generates stimulus and checks output behavior
 
 Ensures correct timing and data integrity
 
-## File Structure
-├── baud_gen.sv          # Baud rate generator
-├── uart_tx.sv           # UART transmitter
-├── uart_rx.sv           # UART receiver
-├── uart_top.sv          # Top-level UART module
-├── uart_tb.sv           # UART testbench
-├── uart_tb_package.sv   # Testbench package (parameters/utilities)
-├── UART.mpf              # Simulation project file
-
 ## Tools & Technologies
 
 Language: SystemVerilog
