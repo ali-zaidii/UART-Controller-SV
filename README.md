@@ -64,7 +64,7 @@ Ensures correct timing and data integrity
 
 Language: SystemVerilog
 
-Simulation: ModelSim / QuestaSim
+Simulation: QuestaSim
 
 Design Style: RTL, Modular
 
